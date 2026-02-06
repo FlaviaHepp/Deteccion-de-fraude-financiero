@@ -65,6 +65,7 @@ Principales variables:
 Selección del mejor escalado según desempeño del modelo base.
 
 3️⃣ Modelado
+
 📌 Clasificador base
 - Logistic Regression con class_weight='balanced'
 - Comparación de escaladores usando Balanced Accuracy
